@@ -1,0 +1,133 @@
+#row1 {
+    background-color: antiquewhite;
+}
+
+#row2 {
+    background-color: #cec1b0;
+}
+
+#row3 {
+    background-color: #9a8f80;
+}
+
+#row4 {
+    background-color: #987d59;
+}
+
+.search {
+    float: right;
+    margin-bottom: 20px;
+}
+
+#nav {
+    height: 50px;
+    background-color: #e2e2e2;
+    padding: 5px;
+    padding-top: 15px;
+    border: 1px solid #000;
+}
+
+ul.menu li {
+    display: inline;
+    /* Отображать как строчный элемент */
+    margin-right: 5px;
+    /* Отступ слева */
+    border: 1px solid #000;
+    /* Рамка вокруг текста */
+    padding: 10px;
+    /* Поля вокруг текста */
+}
+
+li {
+    border: 2px solid black;
+    height: 40px;
+}
+
+a {
+    height: 40px;
+}
+
+li:hover {
+    background-color: #606262;
+}
+
+#sidebar {
+    background-color: aliceblue;
+    height: 98%;
+    padding: 10px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 15px;
+    width: 31%;
+}
+
+#categoryTitle {
+    height: 40px;
+    background-color: #919191;
+    text-align: left;
+    padding: 2px;
+    padding-left: 5px;
+}
+
+.article {
+    background-color: aliceblue;
+    height: 90%;
+    margin: 10px;
+    margin-left: 0px;
+    padding: 5px;
+     
+    
+    text-align: justify;
+    float: left;
+    width: 100%;
+    word-wrap: break-word;
+}
+
+.articleTitle {
+    height: 40px;
+    background-color: #919191;
+    text-align: left;
+    padding: 2px;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+.img-thumbnail {
+    float: left;
+    margin: 7px 7px 7px 0;
+}
+
+#footer {
+    padding-top: 10px;
+    background-color: #bcbcbc;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.foterArticle {
+    float: inherit;
+}
+
+p {
+    width: 550px;
+}
+
+img {
+    margin: 0px 0px 0px 0px;
+}
+
+span {
+    width: 80%;
+    word-wrap: break-word;
+}
+
+
+.notarticle {
+    height: 400px;
+    background-color: #919191;
+    text-align: left;
+    padding: 2px;
+    padding-left: 5px;
+    padding-top: 10px;
+    
+}
